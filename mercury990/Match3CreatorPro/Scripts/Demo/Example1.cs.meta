@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a993df7bf2d17e449bbbc0199f344725
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GridParent: {instanceID: 0}
+  - outline: {fileID: 575850052965154816, guid: 6a473df9515859549865074d4351f957, type: 3}
+  - background1: {fileID: 3918174654332833643, guid: b7c619326fb2e3544bf3ec71578b4a9d, type: 3}
+  - background2: {fileID: 1783181988673034132, guid: eef973d1ce052c947b864d8fb4156c80, type: 3}
+  - item1: {fileID: 3363702791305097367, guid: 5ed585897d4dcfa48860ebb764b2b09c, type: 3}
+  - item2: {fileID: 2091141989047065909, guid: 0b38f62f171479b4da48d8adbdfe3046, type: 3}
+  - item3: {fileID: 858912811982442194, guid: 60806f6a7b3a3cf479278a2713520031, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

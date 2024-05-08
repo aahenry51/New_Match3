@@ -1,0 +1,17 @@
+{
+  "name": "com.mercury990.match3creator",
+  "version": "1.0.0",
+  "displayName": "Match3CreatorPro",
+  "description": "Allows the user to create simple grids for match3 games. Requires DOTween (HOTween v2)  1.2.420",
+  "unity": "2020.3",
+  "dependencies": {},
+  "keywords": [
+    "tools",
+    "extension"
+  ],
+  "author": {
+    "name": "Alphi Henry",
+    "email": "mercury990games@gmail.com",
+    "url": "https://mercurygamedevelopment.blogspot.com/"
+  }
+}

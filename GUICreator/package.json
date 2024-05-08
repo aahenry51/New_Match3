@@ -1,0 +1,17 @@
+{
+  "name": "com.mercury990.guicreator",
+  "version": "1.0.0",
+  "displayName": "GUICreator",
+  "description": "Allows the user to create simple GUI Menus",
+  "unity": "2021.2",
+  "dependencies": {},
+  "keywords": [
+    "tools",
+    "extension"
+  ],
+  "author": {
+    "name": "Alphi Henry",
+    "email": "mercury990games@gmail.com",
+    "url": "https://mercurygames.me/"
+  }
+}
